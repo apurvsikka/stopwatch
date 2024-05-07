@@ -4,7 +4,7 @@
         "title": "Introduction to HTML",
         "crt": "<h1 class='text-4xl'>What is HTML?</h1><br><p>HTML stands for Hypertext Markup Language. It's not a programming language but a markup language that defines the structure of web content. Essentially, HTML is used to specify whether your web content should be recognized as a paragraph, list, heading, link, image, video, and more.</p>",
         "cle": "<h1 class='text-4xl'>Structure of an HTML Document</h1><br><p>Every HTML document starts with a predefined structure that browsers understand to render the web page correctly. Here's a simple example:</p>",
-        "example": "<div class='mockup-code'><!DOCTYPE html><html lang='en'><head><meta charset='UTF-8'><meta name='viewport' content='width=device-width, initial-scale=1.0'><title>Sample HTML Page</title></head><body><h1>Welcome to My Webpage</h1><p>This is a paragraph of text. Here, you can see how a basic HTML page is structured.</p></body></html>/div>",
+        "example": "<!DOCTYPE html><html lang='en'><head><meta charset='UTF-8'><meta name='viewport' content='width=device-width, initial-scale=1.0'><title>Sample HTML Page</title></head><body><h1>Welcome to My Webpage</h1><p>This is a paragraph of text. Here, you can see how a basic HTML page is structured.</p></body></html>",
         "cnd": "<h1 class='text-4xl'>Next Lesson: Key Components of an HTML Document:</h1><p></p>"
     },
     {
